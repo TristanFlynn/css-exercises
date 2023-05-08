@@ -1,0 +1,16 @@
+.first-button {
+    background-color: black;
+    color: aliceblue;
+}
+
+.second-button{
+    background-color: yellow;
+}
+
+.adjust-font-size {
+    font-size: 28px;
+}
+
+.fonts {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
